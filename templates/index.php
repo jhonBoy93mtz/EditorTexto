@@ -1,6 +1,6 @@
 <?php
 script('editortexto', 'script');
-style('editortexto', 'style');
+style('editortexto', 'style');//hola
 ?>
 
 <div id="app">
