@@ -1,0 +1,15 @@
+{
+    "name": "Editor Texto",
+    "description": "Editor de texto para crear paginas html y ver los resultador en vivo.",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Esteban Cureno y Jonathan Martinez"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
